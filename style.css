@@ -1,7 +1,7 @@
 header {
   text-align: center;
   font-size: 30px;
-  color: #279EFF;
+  color: #b3ff27;
 }
 
 main, html {
@@ -24,11 +24,11 @@ main, html {
   margin: 10px;
   font-size: 24px;
   border: none;
-  background-color: #3498db;
+  background-color: #9e16b7;
   cursor: pointer;
   border-radius: 5px;
 }
 
 .button:hover {
-  background-color: #2980b9;
+  background-color: #13bc56;
 }
